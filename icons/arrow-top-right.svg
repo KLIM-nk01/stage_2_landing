@@ -1,0 +1,26 @@
+<svg width="40.548828" height="40.549072" viewBox="0 0 40.5488 40.5491" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<filter id="filter_5_58_dd" x="0.000000" y="0.000000" width="40.548828" height="40.549072" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+			<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+			<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+			<feOffset dx="0" dy="4"/>
+			<feGaussianBlur stdDeviation="1.33333"/>
+			<feComposite in2="hardAlpha" operator="out" k2="-1" k3="1"/>
+			<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+			<feBlend mode="normal" in2="BackgroundImageFix" result="effect_dropShadow_1"/>
+			<feBlend mode="normal" in="SourceGraphic" in2="effect_dropShadow_1" result="shape"/>
+		</filter>
+		<clipPath id="clip5_58">
+			<rect id="svg.qodef-svg--button-arrow" rx="-0.500000" width="18.265644" height="25.765533" transform="translate(18.122803 33.049072) rotate(-135.000000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+	</defs>
+	<g filter="url(#filter_5_58_dd)">
+		<g clip-path="url(#clip5_58)">
+			<path id="Vector" d="M10.74 25.67L29.3 7.11" stroke="#FFFFFF" stroke-opacity="1.000000" stroke-width="0.999746"/>
+			<path id="Vector" d="M16.11 7.31L29.23 7.31L29.23 20.43" stroke="#FFFFFF" stroke-opacity="1.000000" stroke-width="0.999746"/>
+		</g>
+	</g>
+</svg>
